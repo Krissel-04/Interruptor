@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//Krissel de Jesús Reyes Rivera
+
 void encendido(int opcion);
 void apagado(int opcion);
 
